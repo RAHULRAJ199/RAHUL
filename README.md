@@ -12,4 +12,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulraj199&show_icons=true&locale=en&layout=compact" alt="rahulraj199" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulraj199&" alt="rahulraj199" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulglobal.com&" alt="rahulglobal.com" /></p>
